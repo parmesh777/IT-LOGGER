@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "message": "Dont Know Why Redux",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-02-26T14:50:36.850Z",
+      "id": 1
+    },
+    {
+      "message": "Let Me Show You how Boss Does it",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-02-26T14:51:09.591Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Smith",
+      "id": 4
+    }
+  ]
+}
